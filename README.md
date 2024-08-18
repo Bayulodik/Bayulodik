@@ -10,7 +10,7 @@
 
 <p> 👀 I’m interested in game development </p>
 
-<p> 🌱 I’m currently learning game game development
+<p> 🌱 I’m currently learning game development
   with several game engines that I have tried,
   currently the game engines that I often try
   are Godot and Unity, and I also recently tried
