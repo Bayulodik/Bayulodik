@@ -1,4 +1,4 @@
-<img  src="https://github.com/Bayulodik/Bayulodik/blob/main/guardian-tales.gif /> 
+<img  src="https://github.com/Bayulodik/Bayulodik/blob/main/guardian-tales.gif" /> 
 
   <img src="https://github.com/lluuvvii/lluuvvii/blob/main/kohaku-melty-blood.gif" alt="Kohaku" width="200" height="200" align="center" />
 
