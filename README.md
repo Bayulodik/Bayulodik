@@ -16,7 +16,7 @@
   are Godot and Unity, and I also recently tried
   making a visual novel game with Ren'py. </p>
   
-<p> ⚡ Fun fact: I like sweet food,
+<p> ⚡ Fun fact:
   my favorite is indie games,
   I rarely use social media except Facebook </p>
 
