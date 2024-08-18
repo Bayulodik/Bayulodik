@@ -1,3 +1,5 @@
+![alt text](https://github.com/Bayulodik/Bayulodik/blob/main/guardian-tales.gif) 
+
 - 👋 Hi, I’m Bayu lodik
 
 - 👀 I’m interested in game development
