@@ -4,17 +4,17 @@
 
 <h1 align="center"> Hi There!!!, I’m Bayu <span color="000">lodik</span></h1>
 
-- 👀 I’m interested in game development
+<p> 👀 I’m interested in game development </p>
 
-- 🌱 I’m currently learning making games
+<p> 🌱 I’m currently learning making games
   with several game engines that I have tried,
   currently the game engines that I often try
   are Godot and Unity, and I also recently tried
-  making a visual novel game with Ren'py.
+  making a visual novel game with Ren'py. </p>
   
-- ⚡ Fun fact: I like sweet food,
+<p> ⚡ Fun fact: I like sweet food,
   my favorite is indie games,
-  I rarely use social media except Facebook
+  I rarely use social media except Facebook </p>
 
 <!---
 Bayulodik/Bayulodik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
