@@ -20,6 +20,12 @@
   my favorite is indie games,
   I rarely use social media except Facebook </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bayulodik&show_icons=true&theme=radical" alt="my github stats" width="420"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayulodik&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    </p>
+
 <!---
 Bayulodik/Bayulodik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
