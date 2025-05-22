@@ -5,7 +5,7 @@
 
   <img src="https://github.com/Bayulodik/Bayulodik/blob/main/ssstik.io_%404naraka_1741840016253.gif" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00fffa&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=young+programmer;A+game+developer;flexible+and+dynamic+principle;Casual+Gamer;Loraine+husband;lofi+and+phonk+Music+Enjoyer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00fffa&background=FFFFFF00&center=false&vCenter=true&random=false&width=435&lines=young+programmer;game+developer;flexible+and+dynamic+principle;Casual+Gamer;artist;lofi+Enjoyer" alt="Typing SVG" /></a>
 
 
 <p> 👀 I’m interested in game development </p>
